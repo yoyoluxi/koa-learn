@@ -20,6 +20,11 @@
   "dependencies": {
     "koa": "^2.5.3",
     "koa-basic-auth": "^3.0.0",
-    "supertest": "^3.3.0"
+    "koa-body": "^4.0.4",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-views": "^6.1.4",
+    "supertest": "^3.3.0",
+    "swig": "^1.4.2"
   }
 }
